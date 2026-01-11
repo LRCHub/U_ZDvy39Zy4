@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "もしも僕らがGAMEの主役で",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-11T10:31:07.624409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もしも僕らがGAMEの主役で",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/01_もしも僕らがGAMEの主役で_DAOKO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もしも僕らがGameの主役で",
+      "artist": "Daoko",
+      "has_synced": true,
+      "path": "select/02_もしも僕らがGameの主役で_Daoko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もしも僕らがGAMEの主役で",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/pl_01_もしも僕らがGAMEの主役で_DAOKO.txt"
+    }
+  ]
+}
